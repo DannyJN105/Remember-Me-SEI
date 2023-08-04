@@ -31,6 +31,4 @@
 -If times runs out, see "loser" 
 
 
-# Entity Relationship Diagrams (ERDs)
 
-![71281301432__5DBD7E37-8A23-4206-A900-23CAD86CBFD5](https://github.com/DannyJN105/Remember-Me-SEI/assets/135389890/402b3f8d-e325-4dc5-851f-988049c92617)
