@@ -15,7 +15,8 @@
 
 - Technologies Used: HTML, CSS, JavaScript
 
-As a user, I want the ability to...
+# User Stories
+-As a user, I want the ability to...
 -Press Start
 -See countdown begin
 -Select a card
@@ -28,3 +29,8 @@ As a user, I want the ability to...
 -See how many wins and losses I have
 -Once I match all cards, see "winner" 
 -If times runs out, see "loser" 
+
+
+# Entity Relationship Diagrams (ERDs)
+
+![71281301432__5DBD7E37-8A23-4206-A900-23CAD86CBFD5](https://github.com/DannyJN105/Remember-Me-SEI/assets/135389890/402b3f8d-e325-4dc5-851f-988049c92617)
