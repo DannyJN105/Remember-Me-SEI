@@ -5,6 +5,9 @@
 
 ![IMG_1046](https://github.com/DannyJN105/Remember-Me-SEI/assets/135389890/9209c59d-d0a9-4ea4-9b1a-5ca3df229e95)
 
+![IMG_1048](https://github.com/DannyJN105/Remember-Me-SEI/assets/135389890/67a5efb6-4524-4a47-a88d-45705b1b6d62)
+
+![IMG_1049](https://github.com/DannyJN105/Remember-Me-SEI/assets/135389890/d8359f4f-e082-4a7b-8b5d-75e73bfd0a40)
 
 
 
